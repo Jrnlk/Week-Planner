@@ -1,4 +1,18 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/x6ckGcN8)
-# 3500 PA05 Project Repo
+# Week Planner Calendar
 
-[PA Write Up](https://markefontenot.notion.site/PA-05-8263d28a81a7473d8372c6579abd6481)
+A desktop-based week planner calendar application built in **Java** using the **Model-Controller-View (MCV)** architectural pattern. Users can view, add, and manage daily events for each day of the week through an intuitive JavaFX graphical user interface.
+
+## 🗓 Features
+
+- View the full week (Monday–Sunday)
+- Add, edit, and delete daily events
+- Organized by day and time
+- JavaFX-based responsive user interface
+- Clean separation of logic with the MCV structure
+
+## 🛠 Tech Stack
+
+- **Language**: Java  
+- **GUI**: JavaFX  
+- **Architecture**: Model-Controller-View (MCV)
+
